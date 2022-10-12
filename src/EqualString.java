@@ -7,6 +7,7 @@ public class EqualString {
 
         String c = "ROMIL";
 
+        
         System.out.println("by comparing a and b , result is " + a.equals(b));
         System.out.println("by comparing a and c , result is " + a.equals(c));
         System.out.println("by comparing b and c , result is " + c.equals(b));
