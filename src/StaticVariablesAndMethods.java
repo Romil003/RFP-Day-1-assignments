@@ -6,7 +6,7 @@ public class StaticVariablesAndMethods {
     }
 
     static {
-        if(a < b){
+        if( a < b ){
             System.out.println("True");
         }
         else {
