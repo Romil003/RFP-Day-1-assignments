@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class CheckingLeapYear {
-    static void leapYear(int n){
+    static void leapYear( int n ){
 
         if (n>=1582){
             System.out.println("Year is valid");
